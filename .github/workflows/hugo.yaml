@@ -20,12 +20,12 @@ defaults:
         shell: bash
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
         env:
             HUGO_ENVIRONMENT: production
             TZ: America/Toronto
-        steps:
+    steps:
             # - name: install hugo package
             #   run: sudo apt install -y hugo # github actions now uses too old a version: v0.123.7+extended
             - name: Install Hugo CLI
@@ -41,10 +41,9 @@ jobs:
             - name: hugo build
               run: |
                   hugo --cacheDir "${{ runner.temp }}/hugo_cache" --enableGitInfo --panicOnWarning --printI18nWarnings --printPathWarnings
-            - name: creating website archive
-              run: |
-                  mkdir ./public/archives/ &&
-                       tar -zcf ./public/archives/pauseai-ca-full-latest.tgz .editorconfig .github/workflows/* ./*
+    - name: creating website archive
+      run: |
+          tar -zcf "${{ runner.temp }}/pauseai-ca-full-latest.tgz" .editorconfig .github/workflows/* ./*
             - name: Upload published site to github pages
               id: deployment
               uses: actions/upload-pages-artifact@v3
