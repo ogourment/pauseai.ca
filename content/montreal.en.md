@@ -13,7 +13,7 @@ params:
     toc: false
     showTranslations: false
 ---
-{{< shared-callout >}}
+{{< shared-callout city="Montreal" languages="English, French" >}}
 
 We are a community of volunteers that aims to mitigate
 the risks of AI by convincing governments to
@@ -22,8 +22,6 @@ PauseAI informs the public, talks to policy-makers, and organizes events.
 
 Join us at one of our [events](https://luma.com/pauseaimtl) !
 Or talk to us on [discord](/mtl/discord.html).
-
-To subscribe to our mailing list, send an email to <pauseai-mtl-subscribe@lists.riseup.net>.
 
 At PauseAI Montréal, we:
 

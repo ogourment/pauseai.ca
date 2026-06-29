@@ -13,7 +13,7 @@ params:
     toc: false
     showTranslations: false
 ---
-{{< shared-callout >}}
+{{< shared-callout city="Montreal" languages="French, English" >}}
 
 Nous sommes une communauté de bénévoles qui visent à mitiger
 les risques de l'IA en convaincant les gouvernements à
@@ -22,8 +22,6 @@ PauseAI informe le public, parle aux décideurs politiques, et organise des év�
 
 Rejoins-nous à l'un de nos [événements](https://luma.com/pauseaimtl) !
 Ou viens nous parler sur [Discord](/mtl/discord.html).
-
-Pour vous abonner, envoyez un courriel à <pauseai-mtl-subscribe@lists.riseup.net>.
 
 À PauseAI Montréal, nous :
 

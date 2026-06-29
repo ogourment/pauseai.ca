@@ -6,13 +6,13 @@ aliases:
     - canada.html
 ---
 
-Join our [Discord](/ca/discord.html).
+{{< shared-callout calendar="https://luma.com/calendar/cal-tsYv79s4aTQC16Q" discord="/ca/discord.html" >}}
 
-PauseAI local communities in Canada:
+## Local communities
 
 - [Montréal](montreal.html)
 - [Toronto](https://luma.com/hdtymfz8)
 
-If you are organizing a local pauseai community in Canada
+If you are organizing a local PauseAI community in Canada
 and want to be added to this list,
-please email nik at <nicolas.m.lacombe@gmail.com>.
+please email Jeremy Eliosoff <jeremyeliosoff@pauseai.info>.

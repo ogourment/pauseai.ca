@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T00:37:07.167Z",
+  "generatedAt": "2026-06-29T19:28:28.444Z",
   "entries": [
     {
       "page": "/en/",
@@ -1164,7 +1164,7 @@
       "device": "desktop",
       "mode": "dark",
       "region": "cta",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -1179,7 +1179,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 346
+        "textLength": 354
       },
       "bbox": {
         "x": 260,
@@ -1194,7 +1194,7 @@
       "device": "desktop",
       "mode": "dark",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -1208,11 +1208,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 90,
-        "y": 1787.81,
+        "y": 1731.56,
         "width": 1100,
         "height": 76
       },
@@ -1257,34 +1257,34 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 7,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 7,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 28,
+        "textLength": 1016
       },
       "bbox": {
         "x": 90,
         "y": 85.94,
         "width": 1100,
-        "height": 1787.88
+        "height": 1731.63
       },
       "image": "tests/visual/baselines/montreal-en/main/desktop-dark.png"
     },
@@ -1293,7 +1293,7 @@
       "device": "desktop",
       "mode": "light",
       "region": "cta",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -1308,7 +1308,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 346
+        "textLength": 354
       },
       "bbox": {
         "x": 260,
@@ -1323,7 +1323,7 @@
       "device": "desktop",
       "mode": "light",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -1337,11 +1337,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 90,
-        "y": 1787.81,
+        "y": 1731.56,
         "width": 1100,
         "height": 76
       },
@@ -1386,34 +1386,34 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 7,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 7,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 28,
+        "textLength": 1016
       },
       "bbox": {
         "x": 90,
         "y": 85.94,
         "width": 1100,
-        "height": 1787.88
+        "height": 1731.63
       },
       "image": "tests/visual/baselines/montreal-en/main/desktop-light.png"
     },
@@ -1422,7 +1422,7 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "cta",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -1437,7 +1437,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 346
+        "textLength": 354
       },
       "bbox": {
         "x": 16,
@@ -1452,7 +1452,7 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -1466,11 +1466,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 16,
-        "y": 2151.7,
+        "y": 2047.73,
         "width": 358,
         "height": 111.25
       },
@@ -1515,34 +1515,34 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 7,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 7,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 28,
+        "textLength": 1016
       },
       "bbox": {
         "x": 16,
-        "y": -0.09,
+        "y": 0.91,
         "width": 358,
-        "height": 2150.8
+        "height": 2046.83
       },
       "image": "tests/visual/baselines/montreal-en/main/iphone-13-dark.png"
     },
@@ -1551,7 +1551,7 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "cta",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -1566,7 +1566,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 346
+        "textLength": 354
       },
       "bbox": {
         "x": 16,
@@ -1581,7 +1581,7 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -1595,11 +1595,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 16,
-        "y": 2151.7,
+        "y": 2047.73,
         "width": 358,
         "height": 111.25
       },
@@ -1644,34 +1644,34 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Upcoming events Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 7,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 7,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 28,
+        "textLength": 1016
       },
       "bbox": {
         "x": 16,
-        "y": -0.09,
+        "y": 0.91,
         "width": 358,
-        "height": 2150.8
+        "height": 2046.83
       },
       "image": "tests/visual/baselines/montreal-en/main/iphone-13-light.png"
     },
@@ -2496,7 +2496,7 @@
       "device": "desktop",
       "mode": "dark",
       "region": "cta",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -2511,7 +2511,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 433
+        "textLength": 442
       },
       "bbox": {
         "x": 260,
@@ -2526,7 +2526,7 @@
       "device": "desktop",
       "mode": "dark",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -2540,11 +2540,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 90,
-        "y": 1922.81,
+        "y": 1866.56,
         "width": 1100,
         "height": 76
       },
@@ -2589,34 +2589,34 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 8,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 8,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 29,
+        "textLength": 1429
       },
       "bbox": {
         "x": 90,
         "y": 52.94,
         "width": 1100,
-        "height": 1922.88
+        "height": 1866.63
       },
       "image": "tests/visual/baselines/montreal-fr/main/desktop-dark.png"
     },
@@ -2625,7 +2625,7 @@
       "device": "desktop",
       "mode": "light",
       "region": "cta",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -2640,7 +2640,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 433
+        "textLength": 442
       },
       "bbox": {
         "x": 260,
@@ -2655,7 +2655,7 @@
       "device": "desktop",
       "mode": "light",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -2669,11 +2669,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 90,
-        "y": 1922.81,
+        "y": 1866.56,
         "width": 1100,
         "height": 76
       },
@@ -2718,34 +2718,34 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 8,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 8,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 29,
+        "textLength": 1429
       },
       "bbox": {
         "x": 90,
         "y": 52.94,
         "width": 1100,
-        "height": 1922.88
+        "height": 1866.63
       },
       "image": "tests/visual/baselines/montreal-fr/main/desktop-light.png"
     },
@@ -2754,7 +2754,7 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "cta",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -2769,7 +2769,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 433
+        "textLength": 442
       },
       "bbox": {
         "x": 16,
@@ -2784,7 +2784,7 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -2798,11 +2798,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 16,
-        "y": 2474.89,
+        "y": 2399.28,
         "width": 358,
         "height": 111.25
       },
@@ -2847,34 +2847,34 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 8,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 8,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 29,
+        "textLength": 1429
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 358,
-        "height": 2473.98
+        "height": 2398.38
       },
       "image": "tests/visual/baselines/montreal-fr/main/iphone-13-dark.png"
     },
@@ -2883,7 +2883,7 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "cta",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord",
       "structure": {
         "tagCounts": {
           "a": 3,
@@ -2898,7 +2898,7 @@
         "headingCount": 1,
         "listItemCount": 0,
         "elementCount": 9,
-        "textLength": 433
+        "textLength": 442
       },
       "bbox": {
         "x": 16,
@@ -2913,7 +2913,7 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "footer",
-      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing Olivier G. olivierg0@protonmail.com .",
       "structure": {
         "tagCounts": {
           "a": 2,
@@ -2927,11 +2927,11 @@
         "headingCount": 0,
         "listItemCount": 0,
         "elementCount": 6,
-        "textLength": 179
+        "textLength": 180
       },
       "bbox": {
         "x": 16,
-        "y": 2474.89,
+        "y": 2399.28,
         "width": 358,
         "height": 111.25
       },
@@ -2976,34 +2976,34 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Événements à venir S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 8,
           "br": 1,
           "div": 1,
           "h2": 1,
           "h3": 1,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 6,
           "section": 1,
           "span": 3,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 8,
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 2,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 29,
+        "textLength": 1429
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 358,
-        "height": 2473.98
+        "height": 2398.38
       },
       "image": "tests/visual/baselines/montreal-fr/main/iphone-13-light.png"
     },

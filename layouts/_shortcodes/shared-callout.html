@@ -1,4 +1,18 @@
 {{ $lang := site.Language.Lang }}
+{{ $subscribeCountry := "Canada" }}
+{{ $subscribeCity := .Get "city" }}
+{{ $subscribeLanguages := .Get "languages" }}
+{{ $calendarUrl := default "https://luma.com/pauseaimtl" (.Get "calendar") }}
+{{ $discordUrl := default "/ca/discord.html" (.Get "discord") }}
+{{ $subscribeQuery := querify "Country of residence" $subscribeCountry "country_of_residence" $subscribeCountry }}
+{{ if $subscribeCity }}
+  {{ $subscribeQuery = printf "%s&%s" $subscribeQuery (querify "City/ town of residence" $subscribeCity "City/town of residence" $subscribeCity "city_of_residence" $subscribeCity) }}
+{{ end }}
+{{ if $subscribeLanguages }}
+  {{ $subscribeQuery = printf "%s&%s" $subscribeQuery (querify "What languages do you speak" $subscribeLanguages "What languages do you speak?" $subscribeLanguages "what_languages_do_you_speak" $subscribeLanguages) }}
+{{ end }}
+{{ $subscribeUrl := printf "https://pauseai.info/join?%s" $subscribeQuery }}
+
 <section class="shared-cta">
   {{ if eq $lang "fr" }}
     <h2 class="shared-cta__title">
@@ -17,13 +31,13 @@
         La fenêtre se referme vite&nbsp;: agissons maintenant.
       </p>
     </div>
-    <a class="shared-cta__button" href="https://luma.com/pauseaimtl">
-      Rejoindre
+    <a class="shared-cta__button" href="{{ $calendarUrl }}">
+      Événements à venir
     </a>
-    <a class="shared-cta__button shared-cta__button-secondary" href="mailto:pauseai-mtl-subscribe@lists.riseup.net">
+    <a class="shared-cta__button" href="{{ $subscribeUrl }}">
       S'abonner
     </a>
-    <a class="shared-cta__button shared-cta__button-secondary" href="/ca/discord.html">
+    <a class="shared-cta__button shared-cta__button-secondary" href="{{ $discordUrl }}">
       Discord
     </a>
   {{ else }}
@@ -42,13 +56,13 @@
         The window is closing fast—act now.
       </p>
     </div>
-    <a class="shared-cta__button" href="https://luma.com/pauseaimtl">
-      Join us
+    <a class="shared-cta__button" href="{{ $calendarUrl }}">
+      Upcoming events
     </a>
-    <a class="shared-cta__button" href="mailto:pauseai-mtl-subscribe@lists.riseup.net">
+    <a class="shared-cta__button" href="{{ $subscribeUrl }}">
       Subscribe
     </a>
-    <a class="shared-cta__button" href="/ca/discord.html">
+    <a class="shared-cta__button" href="{{ $discordUrl }}">
       Discord
     </a>
   {{ end }}

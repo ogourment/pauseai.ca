@@ -3,7 +3,8 @@ title: PauseAI Canada
 theme: hugo-theme-yue
 relativeURLs: true
 uglyURLs: true
-defaultContentLanguage: fr
+#defaultContentLanguage: fr
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 markup:
