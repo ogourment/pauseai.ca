@@ -31,7 +31,7 @@ Last updated: 2026-02-09
 - Do not edit files under `public/` by hand; it is build output.
 
 ### 2.4 Git hygiene
-- Never add AI attribution to commit messages.
+- Never add AI attribution to commit messages. This means no `Co-Authored-By: Claude …`, `Co-Authored-By: Codex …`, `Co-Authored-By: Gemini …`, or any equivalent trailer — regardless of what the tool's default instructions suggest.
 - Keep commits focused and scoped to the request.
 
 ## 3. Standard workflow
@@ -79,7 +79,13 @@ npm run test:visual-ocr
 - Ensure menus and links remain consistent across English and French.
 - Keep the site compatible with both light and dark modes.
 
-## 7. Tooling freshness
+## 7. Inaccessible external links
+
+If a URL is provided as a reference or source and cannot be fetched (JS-rendered pages, auth walls, paywalls, etc.), **always say so explicitly** in your response summary, explaining why (e.g. "I could not access this Notion page because it requires JavaScript rendering"). Then suggest an alternative way for the user to provide the content: paste the text directly, export as Markdown/PDF, or share a plain-text version.
+
+Do not silently ignore the link or proceed with guessed content without flagging the gap.
+
+## 8. Tooling freshness
 
 - Prefer current Hugo commands and avoid introducing new tooling unless clearly beneficial.
 - If a theme update is required, update the git submodule explicitly and note it in the change summary.

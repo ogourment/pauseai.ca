@@ -5,10 +5,6 @@ draft: false
 ---
 Here's a list of actions you can do right now to help.
 
-To be notified of new action opportunities,
-subscribe to our mailing list,
-by sending an email to <pauseai-mtl-subscribe@lists.riseup.net>.
-
 ### Quick actions
 - [ ] Read more about pauseai on pauseai’s website
     - Example, fully read https://pauseai.info/proposal
